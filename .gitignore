@@ -1,0 +1,6 @@
+*.log
+*.odt
+*.txt
+.idea/
+.vscode/
+Pictures_4_Report/
